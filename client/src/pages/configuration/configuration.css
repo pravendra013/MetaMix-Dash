@@ -1,0 +1,77 @@
+/* DATA GRID FOOTER */
+.MuiDataGrid-footerContainer {
+  display: none;
+}
+
+
+/* ODD-EVEN ROW COLOR */
+.MuiDataGrid-row:nth-child(even) {
+  background-color: rgb(227, 225, 225);
+}
+
+
+/* FONTSIZE OF DATAGRID */
+.MuiDataGrid-row {
+  font-size: 10px;
+}
+
+
+/* Scrollbar-width*/
+::-webkit-scrollbar {
+  width: 1px;
+}
+
+
+/* SWITCH*/
+.css-1ycxvqq-MuiSwitch-root .MuiSwitch-thumb {
+  width: 13px;
+  height: 13px;
+  margin-top: 1.5px;
+}
+
+
+/*Input label*/
+.MuiInputLabel-root {
+  font-size: 12px;
+  line-height: 1;
+  margin-top: -3px;
+}
+
+
+.menu-item:hover {
+  color: white;
+  background-color: #85CDFD;
+}
+
+
+/* DROPDOWN LIST BOX */
+.MuiList-root {
+  max-height: 14rem;
+
+}
+
+
+.MuiInputLabel-shrink {
+  margin-top: 1px;
+}
+
+#details {
+  cursor: not-allowed
+}
+
+
+/* .MuiSwitch-track {
+  width: 1.4rem;
+} */
+
+
+
+/* DROPDOWN LIST BOX */
+/* .css-10nakn3-MuiModal-root-MuiPopover-root-MuiMenu-root {
+  height: 15rem;
+  top: 0rem;
+} */
+
+/* .MuiInputBase-input {
+  font-size: 10px;
+} */

@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "target": "esnext",
+        "module": "esnext",
+        "baseUrl": "src"
+    },
+    "include": ["src/**/*", "src/pages/center/middle-page/.AssestUpdate.js"],
+    "exclude": ["node_modules"]
+}

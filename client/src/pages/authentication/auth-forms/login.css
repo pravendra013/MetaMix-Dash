@@ -1,0 +1,31 @@
+/* .MuiInputLabel-root {
+    font-size: 12px;
+    line-height: 1; */
+/* margin-top: -3px; */
+/* } */
+
+/* .MuiInputBase-input {
+    font-size: 10px;
+  } */
+/* .css-13vyqzj-MuiFormLabel-root-MuiInputLabel-root {
+    margin-top: -6px;
+} */
+
+/* .MuiInputLabel-root {
+    font-size: 12px;
+    line-height: 1;
+    margin-top: -3px;
+} */
+
+
+.MuiInputLabel-root {
+    font-size: 12px;
+    line-height: 1;
+    margin-top: -5px;
+}
+
+
+
+.MuiInputLabel-shrink {
+    margin-top: 1px;
+}

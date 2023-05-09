@@ -1,0 +1,32 @@
+.MuiDataGrid-footerContainer {
+    display: none;
+}
+
+/* .css-15l8iqv-MuiDataGrid-root:nth-child(even) {
+    background-color: rgb(249, 166, 166);
+} */
+
+.odd-row .MuiDataGrid-cell {
+    
+    /* display: flex; */
+    justify-content: center;
+}
+
+.odd-row:nth-child(even) {
+    background-color: rgb(229, 228, 228);
+    
+}
+
+::-webkit-scrollbar {
+    width: 1px;
+  }
+  
+  /* ::-webkit-scrollbar-thumb {
+    background-color: #ea4949;
+  } */
+
+
+
+
+
+
